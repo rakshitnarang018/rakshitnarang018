@@ -76,13 +76,9 @@ I'm a passionate **Software Developer** and **Tech Enthusiast** who thrives on s
 
 ## 🔥 Streak Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rakshitnarang&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rakshitnarang018&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-## 💻 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rakshitnarang018&theme=tokyonight&layout=compact" alt="Wakatime Stats" />
-</div>
 
 ## 🌟 What Drives Me
 
