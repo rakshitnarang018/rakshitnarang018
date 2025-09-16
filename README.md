@@ -84,7 +84,7 @@ const currentLearning = {
     <td width="50%">
       <h3 align="center">🎵 Audiora</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitnarang018&repo=audiora&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitnarang018&repo=audiora01&theme=tokyonight" />
       </div>
       <p align="center">
         <strong>Next-Gen Audio Recognition System</strong><br>
