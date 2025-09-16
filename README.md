@@ -94,7 +94,7 @@ const currentLearning = {
 }
 ```
 
-    </td>
+  
   </tr>
 </table>
 
@@ -258,14 +258,14 @@ const myApproach: DeveloperMindset = {
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/rakshitnarang018">
+  <a href="https://linkedin.com/in/rakshit-narang-75162424a">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
               srcset="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=00d4ff">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </picture>
   </a>
-  <a href="mailto:rakshitnarang018@gmail.com">
+  <a href="mailto:rakshitnarang12@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
               srcset="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=7209b7">
