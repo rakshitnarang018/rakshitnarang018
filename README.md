@@ -286,11 +286,6 @@ const myApproach: DeveloperMindset = {
   <h3>🚀 Open to Opportunities | 💼 Available for Collaborations | 🌟 Let's Innovate Together!</h3>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="400">
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,20:1a1a2e,40:16213e,60:0f3460,80:533483,100:7209b7&height=120&section=footer"/>
