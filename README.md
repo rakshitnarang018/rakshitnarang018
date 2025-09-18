@@ -216,7 +216,7 @@ const currentLearning = {
   <picture>
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Rakshit%20Narang&border=true&border_color=00d4ff">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Rakshit%20Narang" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20your%20future%20is%20to%20create%20it&author=Abraham%20Lincoln" />
   </picture>
 </div>
 
